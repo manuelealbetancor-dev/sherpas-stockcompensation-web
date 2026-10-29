@@ -1,0 +1,10 @@
+:HL["/sherpas-stockcompensation-web/_next/static/media/0484562807a97172-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/sherpas-stockcompensation-web/_next/static/media/4c285fdca692ea22-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/sherpas-stockcompensation-web/_next/static/media/8888a3826f4a3af4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/sherpas-stockcompensation-web/_next/static/media/b957ea75a84b6ea7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/sherpas-stockcompensation-web/_next/static/media/eafabf029ad39a43-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/sherpas-stockcompensation-web/_next/static/css/d6a937ec6e82a062.css","style"]
+:HL["/sherpas-stockcompensation-web/_next/static/css/3bfd8e02cc3fcdb7.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"investment-analysis","h":96,"c":"$Q2"}]]
+0:{"b":"4RWgMgHgkFAQRyngaRThD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
